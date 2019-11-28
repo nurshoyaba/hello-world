@@ -1,1 +1,1 @@
-hiii
+<?php echo "hiii";  ?>
